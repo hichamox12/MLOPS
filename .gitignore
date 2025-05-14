@@ -1,0 +1,12 @@
+# Ignore l’environnement virtuel
+venv/
+
+# Caches Python
+__pycache__/
+*.py[cod]
+
+# Fichiers journaux
+*.log
+
+# Config Git
+*.orig
